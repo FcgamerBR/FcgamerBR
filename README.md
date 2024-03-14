@@ -1,4 +1,5 @@
-## Olá meu nome é Fabricio Oliveira
+## 💫 Sobre Mim
+- Olá eu sou o Fcgamer, um garoto de 18 anos que está aprendendo a programar.
 - 🌱 Estudando Javascript & Typescript
 
 <div style="display: inline_block"><br>
