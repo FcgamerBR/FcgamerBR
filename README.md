@@ -1,6 +1,6 @@
 ## 📊 Github Status
 ![FcgamerBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&theme=dark&hide_border=false)
 ![FcgamerBR's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FcgamerBR&layout=compact&langs_count=7&theme=dark)
 
 <div> 
