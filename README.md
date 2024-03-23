@@ -1,5 +1,4 @@
 ## 💫 Sobre Mim
-- Olá eu sou o Fcgamer, um garoto de 18 anos que está 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="fc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
