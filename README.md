@@ -3,6 +3,5 @@
 ![FcgamerBR's Current](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&theme=dark&hide_border=false)
 
 <div> 
-  [![Discord](https://img.shields.io/badge/Discord:nanotechpikachu-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
   <a href="https://www.linkedin.com/in/fabricio-santos-2b5b86236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
