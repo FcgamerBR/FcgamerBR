@@ -2,7 +2,6 @@
 
 ![FcgamerBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![FcgamerBR's Current](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&theme=dark&hide_border=false)
-![dark](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 <div> 
   <a href = "mailto:fabricio.craftgamerbr22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
