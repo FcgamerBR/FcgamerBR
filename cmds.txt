@@ -1,8 +1,7 @@
 Comandos do Github / VScode
 
-git add ./js/main.js
-git add ./css/style.css
-git add index.html
+git init
+git add .
 git commit -m update
 git branch -M main
 git remote add origin https://github.com/FcgamerBR/ProjetoFM
