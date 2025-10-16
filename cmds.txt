@@ -1,0 +1,19 @@
+git add ./js/main.js
+git add ./css/style.css
+git add index.html
+git commit -m update
+git branch -M main
+git remote add origin https://github.com/FcgamerBR/ProjetoFM
+git push -u origin main
+
+se der erro 
+git pull origin main --allow-unrelated-histories
+
+outras opções
+git remote remove origin
+git remote add origin URL_DO_NOVO_REPOSITORIO_AQUI
+git push origin main
+
+git remote add origin https://github.com/FcgamerBR/test.git
+git branch -M main
+git push -u origin main
