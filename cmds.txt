@@ -1,4 +1,4 @@
-Comandos do Github / VScode
+Comandos do Git / Github no VScode
 
 git init
 git add .
