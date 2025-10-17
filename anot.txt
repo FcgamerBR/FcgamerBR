@@ -18,3 +18,11 @@ git push origin main
 git remote add origin https://github.com/FcgamerBR/test.git
 git branch -M main
 git push -u origin main
+
+
+Links de models de cartaz pra github
+![dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=FcgamerBR&repo=FcgamerBR&cache_seconds=86400&theme=dark)
+![FcgamerBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&hide=contribs,prs&cache_seconds=86700&theme=dark)
+
+Mais opções de cores
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
