@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&card_width=490&card_height=193"&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 ![FcgamerBR's Current](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&card_width=490&card_height=193"&theme=transparent&hide_border=false)
 
 <div> 
