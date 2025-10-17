@@ -1,7 +1,3 @@
-<!--![dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=FcgamerBR&repo=FcgamerBR&cache_seconds=86400&theme=dark)
-![FcgamerBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&hide=contribs,prs&cache_seconds=86700&theme=dark)
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FcgamerBR&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 ![FcgamerBR's Current](https://github-readme-streak-stats.herokuapp.com/?user=FcgamerBR&theme=transparent&hide_border=false)
 
