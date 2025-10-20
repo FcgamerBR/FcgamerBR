@@ -7,10 +7,6 @@
   <a href="https://www.linkedin.com/in/fabricio-santos-2b5b86236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=FcgamerBR&abbreviated=true&style=flat-square&color=755b25"/></p> 
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FcgamerBR/FcgamerBR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FcgamerBR/FcgamerBR/output/github-contribution-grid-snake-dark.svg">
